@@ -1,4 +1,4 @@
-# stream-app-project
+# Stream-App-Project
 
 This is a front-end clone of the app homepage built using HTML and CSS. This project was part of my web development learning journey.
 
